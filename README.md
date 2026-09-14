@@ -29,3 +29,8 @@ More number of I2C sensor boards can be connected to the SDA,SCL and 5V pin.
 
 Currently there are places for 2 ESP32 mini boards, place for one can be replaced to place 2 ultra mini breadboard.
 User can utilise either left or right postion for ESP32 and other one for ultra mini breadboard.
+
+
+## License
+
+This project is licensed under the MIT License.
