@@ -16,6 +16,7 @@ Top 20 male header for SDA and bottom 20 male header for SCL.
 This repository contains the PCB design files for an I2C breakout board project.
 Simply program the ESP32 to display on the onboard OLED screen.
 More number of I2C sensor boards can be connected to the SDA,SCL and 5V pin.
+Can be used without ESP32 as just a I2C breakout board with and I2C OLED display, by giving power using the onboard type C input and connecting SDA and SCL to top male headers.
 
 
 ## Contents
